@@ -1,5 +1,6 @@
 # Lab 8 - Caroline Cromley
 # Version 2
+# Third comment line
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
